@@ -1,4 +1,4 @@
-# 100-days-of-code log
+# 100 Days Of Code - Log
 
 ### Day 1: November 2, 2020
 
@@ -35,3 +35,15 @@
 ### Day 6(8): November 9, 2020
 
 **Today’s Progress**: Fixed bug with un-normalized probabilities in SDN code
+
+### Day 7(9): November 10, 2020
+
+**Today’s Progress**: Debugging SDN RT curves, writing code for SDN RT curves, Finished project 1 Nand2Tetris
+
+### Day 8(10): November 11, 2020
+
+**Today’s Progress**: Created portfolio page for personal website
+
+### Day 8(11): November 12, 2020
+
+**Today’s Progress**: None (busy with CVPR deadline and school work)
