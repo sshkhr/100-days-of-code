@@ -47,3 +47,31 @@
 ### Day 8(11): November 12, 2020
 
 **Today’s Progress**: None (busy with CVPR deadline and school work)
+
+### Day 9(12): November 13, 2020
+
+**Today’s Progress**: Implemented Nand2Tetris project 2. Some plots for CVPR submission
+
+### Day 10(13): November 14, 2020
+
+**Today’s Progress**: Implemented priors on RPS agents
+
+### Day 11(14): November 15, 2020
+
+**Today’s Progress**: None really. Created Github readme
+
+### Day 12(15): November 16, 2020
+
+**Today’s Progress**: CVPR submission running inferences
+
+### Day 12(16): November 17, 2020
+
+**Today’s Progress**: None
+
+### Day 13(17): November 18, 2020
+
+**Today’s Progress**: Did Nand 2 Tetris project 3
+
+### Day 14(18): November 19, 2020
+
+**Today’s Progress**: None
